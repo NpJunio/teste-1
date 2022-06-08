@@ -15,3 +15,10 @@ main()
 else
 cout<<"\n\nNão é um quadrado perfeito \n\n";
 } 
+
+
+
+
+
+
+//bom dia
